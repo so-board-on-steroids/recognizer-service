@@ -1,3 +1,3 @@
 # recognizer-service
 
-docker build . -t recogniser:sobos
+docker build . -t recognizer:sobos
